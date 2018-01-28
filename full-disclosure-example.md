@@ -265,5 +265,5 @@ SPECIMEN SOURCE: A) ThinPrep Vial - Endo/ecto cervical
 CYTOLOGIC IMPRESSION: Negative for intraepithelial lesions or malignancy
 SAMPLING ADEQUACY: Endocervical cells / metaplastic cells present.
 PAP Normal?: Y
-PAP Diag:	Negative
+PAP Diag: Negative
 ```
